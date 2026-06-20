@@ -2,9 +2,6 @@
 
 A retrieval-augmented generation (RAG) system that answers questions from a PDF document, implemented two ways: a fully manual pipeline built from scratch, and a LangChain-based version, for comparison and learning.
 
-## Demo
-
-[Add a screenshot or terminal output GIF here]
 
 ## Problem
 
